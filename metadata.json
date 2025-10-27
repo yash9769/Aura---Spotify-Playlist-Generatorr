@@ -1,0 +1,8 @@
+{
+  "name": "AURA: AI-Powered Spotify Playlists",
+  "description": "AURA is a web app that generates Spotify playlists personalized to your mood, memories, and vibe using the Gemini API. Describe your feelings, and let AI curate the perfect soundtrack for your moment.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}

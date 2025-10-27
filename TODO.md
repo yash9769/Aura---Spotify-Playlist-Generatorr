@@ -1,0 +1,8 @@
+- [x] Update SpotifyLoginButton.tsx button styling to muted fuchsia-cyan gradient
+- [x] Update HomePage.tsx button styling to darker gradient with reduced glow
+- [x] Change buttons to whitish brown to match background
+- [x] Remove the description text box
+- [x] Update GeneratePage ActionButton to match HomePage button styling
+- [x] Update PlaylistPage buttons to match whitish brown styling
+- [x] Update AuthModal sign in/sign up buttons to match whitish brown styling
+- [x] Update Logo colors to match whitish brown button styling
